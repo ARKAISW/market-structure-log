@@ -7,7 +7,7 @@
 **Venue:** Binance  
 **Charting Platform:** TradingView  
 
-![BTC 4h Structure](../../images/2026-01-18-BTC-4h-RSI-Structure-Fractal.png)
+![BTC 4h Structure](../../images/BTCUSDT_2026-01-18_23-45-09_83dc6.png)
 
 ---
 
