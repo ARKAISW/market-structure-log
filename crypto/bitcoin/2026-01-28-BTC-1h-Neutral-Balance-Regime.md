@@ -19,14 +19,11 @@ Price is currently oscillating within the middle of the range rather than
 testing extreme support or resistance.
 
 ## Observation
-Relative Strength Index (RSI) is stabilizing near the neutral 50 level,
-indicating the absence of a dominant momentum regime.
+The lack of a dominant momentum regime is indicated by the Relative Strength Index (RSI), which is stabilising close to the neutral 50 level.
 
-MACD is hovering near the zero line with low-amplitude oscillations,
-reflecting weak trend strength and a balanced flow environment.
+With low-amplitude oscillations, MACD is hovering close to the zero line, indicating a balanced flow environment and weak trend strength.
 
-Price remains contained within the range and near the mid-level of the
-recent Fibonacci retracement structure.
+The price is still contained within the recent Fibonacci retracement structure's range and close to its mid-level.
 
 ## Hypothesis
 In the absence of renewed momentum, price may continue to rotate within
