@@ -9,7 +9,7 @@
 **Venue:** Coinbase  
 **Charting Platform:** TradingView  
 
-![ETHUSD 1H Chart](../../images/ETHUSD_2026-02-06_23-34-31_2b259.png)
+![ETHUSD 1H Chart](../../images/ETHUSD_2026-03-26_21-38-45_33934.png)
 ---
 
 ## Context
